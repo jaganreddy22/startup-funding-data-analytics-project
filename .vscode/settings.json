@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "startup",
+            "database": "${workspaceFolder:Indian-Startup-Funding-EDA Tak2}/startup.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
