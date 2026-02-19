@@ -83,5 +83,5 @@ The Static Dashboard includes:
 
 ---
 
-## 📁 Project Structure
+
 
